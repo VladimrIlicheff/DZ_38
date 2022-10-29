@@ -50,5 +50,5 @@ PrintArray(array);
 Console.WriteLine("");
 int max = DiffMax(array);
 int min = DiffMin(array);
-Console.WriteLine($"макасимум -> {max},минимум -> {min}");
+Console.WriteLine($"максимум -> {max},минимум -> {min}");
 Console.WriteLine($"разница {max - min}");
